@@ -2,8 +2,6 @@
 
 ###
 
-<p align="left">Eu sou Isabella Góes, discente do curso técnico de Informática da Etec Adolpho Berezin.</p>
-
 ###
 
 <div align="left">
